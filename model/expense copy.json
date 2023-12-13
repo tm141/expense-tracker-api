@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "name": "Lettuce - California Mix",
+        "desc": "Secured multi-state access",
+        "category": 1,
+        "nominal": "6970.26",
+        "date": "2023-11-05T22:50:45Z"
+    },
+    {
+        "id": 2,
+        "name": "Rum - Cream, Amarula",
+        "desc": "Secured logistical protocol",
+        "category": 3,
+        "nominal": "7186.95",
+        "date": "2023-04-16T16:12:03Z"
+    },
+    {
+        "id": 3,
+        "name": "Cream - 10%",
+        "desc": "Team-oriented motivating attitude",
+        "category": 3,
+        "nominal": "1367.83",
+        "date": "2023-02-04T03:01:13Z"
+    },
+    {
+        "id": 4,
+        "name": "Ice Cream Bar - Oreo Sandwich",
+        "desc": "Integrated even-keeled conglomeration",
+        "category": 2,
+        "nominal": "8314.85",
+        "date": "2023-09-10T20:10:05Z"
+    },
+    {
+        "id": 5,
+        "name": "Cherries - Maraschino,jar",
+        "desc": "Persevering mission-critical task-force",
+        "category": 2,
+        "nominal": "5544.92",
+        "date": "2023-01-16T00:50:13Z"
+    },
+    {
+        "id": 6,
+        "name": "Tuna - Fresh",
+        "desc": "Visionary composite synergy",
+        "category": 3,
+        "nominal": "7704.64",
+        "date": "2023-05-07T09:35:07Z"
+    },
+    {
+        "id": 7,
+        "name": "Onions - Spanish",
+        "desc": "Enhanced bottom-line alliance",
+        "category": 1,
+        "nominal": "8275.25",
+        "date": "2022-12-18T15:28:04Z"
+    },
+    {
+        "id": 8,
+        "name": "Ostrich - Prime Cut",
+        "desc": "Exclusive high-level algorithm",
+        "category": 3,
+        "nominal": "7789.17",
+        "date": "2023-05-22T14:24:36Z"
+    },
+    {
+        "id": 9,
+        "name": "Pie Shell - 5",
+        "desc": "Networked empowering protocol",
+        "category": 2,
+        "nominal": "700.99",
+        "date": "2023-08-11T15:06:15Z"
+    },
+    {
+        "id": 10,
+        "name": "Quail - Whole, Boneless",
+        "desc": "Upgradable well-modulated utilisation",
+        "category": 3,
+        "nominal": "8953.21",
+        "date": "2023-06-18T16:22:36Z"
+    },
+    {
+        "id": 11,
+        "name": "Long Island Ice Tea",
+        "desc": "Reactive maximized challenge",
+        "category": 2,
+        "nominal": "6595.93",
+        "date": "2023-10-17T19:57:37Z"
+    },
+    {
+        "id": 12,
+        "name": "V8 - Vegetable Cocktail",
+        "desc": "Versatile even-keeled groupware",
+        "category": 2,
+        "nominal": "3878.34",
+        "date": "2023-01-14T09:28:13Z"
+    },
+    {
+        "id": 13,
+        "name": "Lettuce - Iceberg",
+        "desc": "Cross-platform intermediate implementation",
+        "category": 2,
+        "nominal": "859.57",
+        "date": "2023-01-15T09:28:30Z"
+    },
+    {
+        "id": 14,
+        "name": "Breadfruit",
+        "desc": "Advanced transitional approach",
+        "category": 1,
+        "nominal": "2113.67",
+        "date": "2023-05-11T02:09:24Z"
+    },
+    {
+        "id": 15,
+        "name": "Appetizer - Mango Chevre",
+        "desc": "Vision-oriented global neural-net",
+        "category": 3,
+        "nominal": "9435.78",
+        "date": "2023-10-18T22:33:19Z"
+    },
+    {
+        "id": 16,
+        "name": "Nut - Hazelnut, Ground, Natural",
+        "desc": "Innovative zero tolerance support",
+        "category": 1,
+        "nominal": "4353.12",
+        "date": "2022-12-30T23:22:38Z"
+    },
+    {
+        "id": 17,
+        "name": "Veal - Leg, Provimi - 50 Lb Max",
+        "desc": "Re-contextualized didactic ability",
+        "category": 2,
+        "nominal": "1499.35",
+        "date": "2023-07-24T11:54:40Z"
+    },
+    {
+        "id": 18,
+        "name": "Salmon Steak - Cohoe 8 Oz",
+        "desc": "Adaptive scalable Graphic Interface",
+        "category": 2,
+        "nominal": "4499.12",
+        "date": "2023-09-14T01:23:33Z"
+    },
+    {
+        "id": 19,
+        "name": "Muffin - Banana Nut Individual",
+        "desc": "Profound needs-based function",
+        "category": 1,
+        "nominal": "9286.22",
+        "date": "2023-07-02T11:01:02Z"
+    },
+    {
+        "id": 20,
+        "name": "Cheese - Cheddar, Medium",
+        "desc": "Total bifurcated time-frame",
+        "category": 3,
+        "nominal": "3248.51",
+        "date": "2023-05-16T18:19:00Z"
+    },
+    {
+        "id": 21,
+        "name": "Yokaline",
+        "desc": "Optional demand-driven challenge",
+        "category": 2,
+        "nominal": "9892.25",
+        "date": "2023-03-03T11:22:48Z"
+    },
+    {
+        "id": 22,
+        "name": "Flower - Commercial Bronze",
+        "desc": "Enterprise-wide impactful knowledge user",
+        "category": 3,
+        "nominal": "1429.77",
+        "date": "2023-01-01T09:34:01Z"
+    },
+    {
+        "id": 23,
+        "name": "Anchovy Fillets",
+        "desc": "Up-sized tangible benchmark",
+        "category": 1,
+        "nominal": "667.21",
+        "date": "2023-11-28T10:12:41Z"
+    },
+    {
+        "id": 24,
+        "name": "Mushroom - Crimini",
+        "desc": "Face to face high-level challenge",
+        "category": 2,
+        "nominal": "4862.48",
+        "date": "2023-05-31T18:03:30Z"
+    },
+    {
+        "id": 25,
+        "name": "Salmon - Whole, 4 - 6 Pounds",
+        "desc": "Robust real-time analyzer",
+        "category": 3,
+        "nominal": "9058.57",
+        "date": "2023-05-12T00:59:04Z"
+    },
+    {
+        "id": 26,
+        "name": "Cream - 18%",
+        "desc": "Inverse content-based frame",
+        "category": 3,
+        "nominal": "8663.51",
+        "date": "2023-01-01T06:21:55Z"
+    },
+    {
+        "id": 27,
+        "name": "Chips Potato Salt Vinegar 43g",
+        "desc": "Advanced upward-trending database",
+        "category": 2,
+        "nominal": "313.67",
+        "date": "2023-06-03T10:34:00Z"
+    },
+    {
+        "id": 28,
+        "name": "Curry Powder Madras",
+        "desc": "Public-key discrete system engine",
+        "category": 3,
+        "nominal": "8594.77",
+        "date": "2023-02-09T17:53:24Z"
+    },
+    {
+        "id": 29,
+        "name": "Cabbage - Savoy",
+        "desc": "Synergized content-based access",
+        "category": 2,
+        "nominal": "5090.99",
+        "date": "2023-03-16T13:12:55Z"
+    },
+    {
+        "id": 30,
+        "name": "Wine - Barossa Valley Estate",
+        "desc": "Reactive 5th generation task-force",
+        "category": 3,
+        "nominal": "5710.41",
+        "date": "2023-07-09T02:48:56Z"
+    }
+]

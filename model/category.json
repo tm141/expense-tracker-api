@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Food",
+        "desc": "all food-related item"
+    },
+    {
+        "id": 2,
+        "name": "Electronics",
+        "desc": "all electronics item"
+    },
+    {
+        "id": 3,
+        "name": "Clothing",
+        "desc": "all apparel item"
+    }
+]
